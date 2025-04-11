@@ -1,6 +1,4 @@
-﻿using System.Diagnostics;
-
-decimal capital, juros, montante;
+﻿decimal capital, juros, montante;
 double taxa;
 int tempo;
 
